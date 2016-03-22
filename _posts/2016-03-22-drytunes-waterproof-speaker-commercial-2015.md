@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Drytunes Waterproof Speakers
-    url: 'https://www.youtube.com/user/DrytunesSpeakers'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=JCdKBl5RK8M'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - waterproof
@@ -21,7 +17,13 @@ keywords:
   - uvc
   - danstube
 description: 'Drytunes Commercial 2015 (Airing Nationally This Summer!!)'
-inLanguage: en
+datePublished: '2016-03-22T22:40:04.007Z'
+dateModified: '2016-03-22T22:39:56.227Z'
+author:
+  - name: Drytunes Waterproof Speakers
+    url: 'https://www.youtube.com/user/DrytunesSpeakers'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=JCdKBl5RK8M&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=JCdKBl5RK8M'
 title: Drytunes Waterproof Speaker - Commercial 2015
-datePublished: '2016-03-22T21:47:40.197Z'
-dateModified: '2016-03-22T21:41:44.980Z'
 sourcePath: _posts/2016-03-22-drytunes-waterproof-speaker-commercial-2015.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
