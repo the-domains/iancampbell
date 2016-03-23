@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/160020835'
 inLanguage: null
 starred: true
 keywords: []
-description: Cinematography Reel - Ian Campbell
-datePublished: '2016-03-23T00:09:32.117Z'
-dateModified: '2016-03-23T00:08:10.977Z'
+description: Cinematography Reel - Ian Campbell - DP
+datePublished: '2016-03-23T00:20:13.191Z'
+dateModified: '2016-03-23T00:19:51.085Z'
 author:
   - name: Ian Campbell
     url: 'http://vimeo.com/incnc'
@@ -41,7 +41,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: Ian Campbell - Cinematographer
+title: Ian Nicholas Campbell - Cinematographer
 sourcePath: _posts/2016-03-23-ian-campbell-cinematographer.md
 published: true
 authors: []
