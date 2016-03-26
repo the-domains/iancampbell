@@ -1,6 +1,6 @@
 name: INCDP
 favicon: null
-layout_spectrum: 0.27375
+layout_spectrum: 1
 typography_spectrum: 0.40946
 title: 'Ian Nicholas Campbell - Cinematographer '
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.75
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
