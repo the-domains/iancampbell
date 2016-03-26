@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Cinematography Reel - Ian Campbell - DP
-datePublished: '2016-03-23T00:20:13.191Z'
-dateModified: '2016-03-23T00:19:51.085Z'
+datePublished: '2016-03-26T18:14:03.724Z'
+dateModified: '2016-03-26T18:11:54.553Z'
 author:
   - name: Ian Campbell
     url: 'http://vimeo.com/incnc'
